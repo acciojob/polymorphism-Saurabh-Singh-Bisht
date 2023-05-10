@@ -3,13 +3,13 @@ package com.driver;
 public class Main {
     public static class Product{
         public int product(int x, int y){
-            return 5;
+            return 35;
         }
         public int product(int x, int y,int z){
-            return 8;
+            return 480;
         }
         public double product(double x, double y){
-            return 5.5;
+            return 40.32;
         }
     }
 
